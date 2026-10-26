@@ -102,6 +102,7 @@
 - [LLM Guard](https://github.com/protectai/llm-guard) - Toolkit with 15+ scanners optimized for CPU inference.
 - [Rebuff](https://github.com/protectai/rebuff) - Multi-layered defense framework against prompt injection with self-hardening.
 - [LLM Firewall](https://github.com/aiassured/llm-firewall) - Self-hardening firewall for LLMs protecting against adversarial attacks.
+- [Speakeasy control plane](https://www.speakeasy.com/) - MCP gateway with identity-based tool permissions, per-action security policies, and audit logs.
 
 **[⬆ back to top](#contents)**
 
